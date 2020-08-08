@@ -26,6 +26,7 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": "http://dsorrent2017.github.io/hw19-react-employee-directory-list",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
