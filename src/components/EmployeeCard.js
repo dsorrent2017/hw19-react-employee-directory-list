@@ -1,7 +1,7 @@
 import React from "react";
 
 function EmployeeCard(props) {
-    debugger; console.log("EmployeeCard(props)")
+
   return (
     // <div className="row">
     <tr>
