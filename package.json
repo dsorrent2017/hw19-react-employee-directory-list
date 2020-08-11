@@ -1,4 +1,5 @@
 {
+  "homepage": "https://dsorrent2017.github.io/hw19-react-employee-directory-list",
   "name": "hw19-react-app",
   "version": "0.1.0",
   "private": true,
@@ -23,13 +24,14 @@
   "eslintConfig": {
     "extends": "hw-19-react-app"
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "http://dsorrent2017.github.io/hw19-react-employee-directory-list",
+ 
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
